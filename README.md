@@ -106,6 +106,18 @@ This document provides an overview of the UI updates made to the Android applica
 
 ---
 
+
+<p align="center">
+  <img src="Test Draw.svg" alt="Draw io" width="400">
+</p>
+
+## 🛠 How to Update The Draw :
+1. Open [Draw io](https://app.diagrams.net/).
+2. Download file "Test Draw.svg"
+3. open Exiting Project and upload file
+
+
+
 ## 📊 **Key Enhancements**
 
 ### ✅ **UI Improvements**
