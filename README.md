@@ -131,7 +131,7 @@ This document provides an overview of the UI updates made to the Android applica
 1. Clone the repository:
     
     ```sh
-    git clone https://github.com/your-repo/android-ui-update.git
+    git clone https://gitlab.softxpertdev.com/certifix-projects/psm-android/-/tree/release_2.24/10-ma-local-pickup-design-update
     ```
     
 2. Open in **Android Studio**.
@@ -157,14 +157,16 @@ This document provides an overview of the UI updates made to the Android applica
 
 ---
 
+
+🔗 **Check the New UI:** [Figma Local Pickup ](https://www.figma.com/design/Xbqh5wiyJ04FqGoh3kmgtY/Operator-mobile-Android?node-id=1-1903&p=f&t=wCF1c1i4ByW3K0m0-0)
+
+---
+
 ## 🏆 **Conclusion**
 
 This update significantly enhances UI design, user experience, and code maintainability. The modernized UI structure ensures a better app look and feel while maintaining smooth interactions.
 
 ---
 
-💡 _For any questions or contributions, feel free to submit an issue or a pull request!_ 🚀
-
----
-
-📢 Let me know if you want any changes or additions! 🚀
+## 🎥 Live Demo for Markdown
+[![Watch the video](https://img.youtube.com/vi/bTVIMt3XllM/maxresdefault.jpg)](https://www.youtube.com/watch?v=bTVIMt3XllM)
