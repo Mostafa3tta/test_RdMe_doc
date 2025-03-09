@@ -24,10 +24,10 @@ This document provides an overview of the UI updates made to the Android applica
 
 > Add screenshots of old vs. new UI for better visualization.
 
-```markdown
-![Old UI](old.png)
-![New UI](new.png)
-```
+<p align="center">
+  <img src="old.png" alt="Old UI" width="400">
+  <img src="new.png" alt="New UI" width="400">
+</p>
 
 ---
 
