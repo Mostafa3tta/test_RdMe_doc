@@ -25,8 +25,8 @@ This document provides an overview of the UI updates made to the Android applica
 > Add screenshots of old vs. new UI for better visualization.
 
 ```markdown
-![Old UI](./old_ui.png)
-![New UI](./new_ui.png)
+![Old UI](old.png)
+![New UI](new.png)
 ```
 
 ---
